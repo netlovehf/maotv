@@ -241,7 +241,7 @@
 },
 {
   "key": "csp_xpath_egg",
-  "name": "蛋蛋影院(主)",
+  "name": "蛋蛋影院(XPath)",
   "type": 3,
   "api": "csp_XPathEgg",
   "searchable": 1,
