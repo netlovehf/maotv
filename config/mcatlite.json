@@ -240,6 +240,16 @@
   "ext": "https://cdn.jsdelivr.net/gh/netlovehf/maotv@main/xpath/dm84.json"
 },
 {
+  "key": "csp_xpath_egg",
+  "name": "蛋蛋影院(主)",
+  "type": 3,
+  "api": "csp_XPathEgg",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://cdn.jsdelivr.net/gh/netlovehf/maotv@main/xpath/egg.json"
+}, 
+{
   "key": "csp_yysdali",
   "name": "YYDS影视(XPath)",
   "type": 3,
@@ -479,6 +489,21 @@
       "filterable": 0,
       "ext":"https://cdn.jsdelivr.net/gh/netlovehf/maotv@main/xpath/1010dy.json"
      },
+     
+
+     {"key":"csp_appys_iptv_星光TV", "name":"星光TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_星光TV"},
+     {"key":"csp_appys_iptv_小极TV", "name":"小极TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_小极TV"},
+     {"key":"csp_appys_iptv_云播影视", "name":"云播影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_云播影视"},
+     {"key":"csp_appys_iptv_爱西西TV", "name":"爱西西TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_爱西西TV"},
+     {"key":"csp_appys_v1_樱花动漫", "name":"樱花动漫(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_樱花动漫"},
+     {"key":"csp_appys_v1_颖家影院", "name":"颖家影院(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_颖家影院"},
+     {"key":"csp_appys_v1_雪人资源", "name":"雪人资源(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_雪人资源"},
+     {"key":"csp_appys_v1_团夕影院", "name":"团夕影院(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_团夕影院"},
+     {"key":"csp_appys_v1_土豆TV", "name":"土豆TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_土豆TV"},
+     {"key":"csp_appys_v1_黑马影视", "name":"黑马影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_黑马影视"},
+     {"key":"csp_appys_v1_爱西西", "name":"爱西西(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_爱西西"},
+     {"key":"csp_appys_xiaogui_氢视频", "name":"氢视频(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_氢视频"},
+     {"key":"csp_appys_xiaogui_飞英视频", "name":"飞英视频(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_飞英视频"},
      {"key":"csp_appys_iptv_凌雪影视", "name":"凌雪影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_凌雪影视"},
      {"key":"csp_appys_iptv_乐酷TV", "name":"乐酷TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_乐酷TV"},
      {"key":"csp_appys_iptv_风车影视", "name":"风车影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_风车影视"},
@@ -915,7 +940,7 @@
       "name": "富阳新闻综合",
       "urls": [      
             
-        "https://34666.hlsplay.aodianyun.com/tv_radio_34666/tv_channel_1181.m3u8?auth_key=1636512648-0-0-e3601aeb72500f26e650ae49e3d6eadd"
+        "https://34666.hlsplay.aodianyun.com/tv_radio_34666/tv_channel_1181.m3u8?auth_key=1637634065-0-0-3966f1a7fe521f3322b84584f2fa1829"
         
       ]
     },     
