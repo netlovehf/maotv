@@ -491,6 +491,23 @@
      },
      
 
+     {"key":"csp_appys_iptv_云播影视", "name":"云播影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_云播影视"},
+     {"key":"csp_appys_iptv_若惜影视", "name":"若惜影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_若惜影视"},
+     {"key":"csp_appys_gctv_720看片", "name":"720看片(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"gctv_720看片"},
+     {"key":"csp_appys_gctv_段友影视", "name":"段友影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"gctv_段友影视"},
+     {"key":"csp_appys_gctv_可米影视", "name":"可米影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"gctv_可米影视"},
+     {"key":"csp_appys_gctv_奈非迷TV", "name":"奈非迷TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"gctv_奈非迷TV"},
+     {"key":"csp_appys_v1_天天视频", "name":"天天视频(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_天天视频"},    
+     {"key":"csp_appys_v1_思奇影视", "name":"思奇影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_思奇影视"},
+     {"key":"csp_appys_v1_奈非迷", "name":"奈非迷(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_奈非迷"},
+     {"key":"csp_appys_v1_美剧虫", "name":"美剧虫(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_美剧虫"},
+     {"key":"csp_appys_v1_可米影视", "name":"可米影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_可米影视"},
+     {"key":"csp_appys_v1_大熊影视", "name":"大熊影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_大熊影视"},
+     {"key":"csp_appys_v1_720看片", "name":"720看片(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_720看片"},
+     {"key":"csp_appys_xiaogui_皮皮影视", "name":"皮皮影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_皮皮影视"},
+     {"key":"csp_appys_xiaogui_灵狐影视", "name":"灵狐影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_灵狐影视"},
+     {"key":"csp_appys_xiaogui_vip影院", "name":"vip影院(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_vip影院"},
+
      {"key":"csp_appys_iptv_星光TV", "name":"星光TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_星光TV"},
      {"key":"csp_appys_iptv_小极TV", "name":"小极TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_小极TV"},
      {"key":"csp_appys_iptv_云播影视", "name":"云播影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_云播影视"},
@@ -3137,6 +3154,12 @@
     	  {"name":"13","url":"https://jx.zuixinyiqi.com/jiekou-3/?url="},
     	  {"name":"14","url":"https://jiexi.moeamv.com/?url="},
 	      
+
+        {
+          "name": "789pan",
+          "type": 0,
+          "url": "https://web.jiexi.work/777/?url="
+        },
         {
           "name": "Jsongbxy",
           "type": 1,
@@ -3550,7 +3573,9 @@
         "tudou",
         "pptv",
         "mgtv",
-        "wasu"
+        "wasu",
+        "bilibili",
+        "789pan"
       ],
       "ijk": [
         {
