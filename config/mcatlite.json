@@ -3139,6 +3139,188 @@
           "type": 2,
           "url": "Sequence"
         },
+        
+        {
+          "name": "大熊影视",
+          "type": 1,
+          "url": "https://api.parwix.com:4433/analysis/json/?uid=1735&my=bcefosxyACJKOWX678&url=",
+          "t": 303
+        },
+        {
+          "name": "筋斗云",
+          "type": 1,
+          "url": "https://vip.byteamone.cn/api/?key=6QbQClrF1qGZTK2W4w&url=",
+          "t": 316
+        },
+        {
+          "name": "艾特影视1",
+          "type": 1,
+          "url": "https://vip.byteamone.cn/api/?key=3YQRnznX6cf6IDFjVj&url=",
+          "t": 331
+        },
+        {
+          "name": "抹茶猪",
+          "type": 1,
+          "url": "https://vip.byteamone.cn/api/?key=c1QMi2CVZIe4LILZjz&url=",
+          "t": 340
+        },
+        {
+          "name": "720看片",
+          "type": 1,
+          "url": "https://json.pangujiexi.com:12345/json.php?url=",
+          "t": 348
+        },
+        {
+          "name": "南府影视",
+          "type": 1,
+          "url": "https://973.cuan.la:5901/973/api/api_best.php?pltfrom=1100&key=973&url=",
+          "t": 358
+        },
+        {
+          "name": "灵狐影视",
+          "type": 1,
+          "url": "https://api.parwix.com:4433/analysis/json/?uid=84&my=gijkmnouvxyFHPYZ28&url=",
+          "t": 361
+        },
+        {
+          "name": "黄河影视",
+          "type": 1,
+          "url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=",
+          "t": 388
+        },
+        {
+          "name": "久久追剧",
+          "type": 1,
+          "url": "http://vip.iepig.com:5566/api/?key=wP4EPCyy5GvRqzEaAm&url=",
+          "t": 417
+        },
+        {
+          "name": "段友影视",
+          "type": 1,
+          "url": "https://v.jhdyw.vip/nhdz666/?url=",
+          "t": 505
+        },
+        {
+          "name": "飞英视频",
+          "type": 1,
+          "url": "https://api.phoves.com.cn/viphd2/api/api_fytt123.php?url=",
+          "t": 529
+        },
+        {
+          "name": "vip影院",
+          "type": 1,
+          "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url=",
+          "t": 531
+        },
+        {
+          "name": "大熊影视1",
+          "type": 1,
+          "url": "http://a.dxzj88.com/jhjson/?url=",
+          "t": 541
+        },
+        {
+          "name": "小强TV",
+          "type": 1,
+          "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=867242&key=cdeijlqrxyEHLQUX14&url=",
+          "t": 637
+        },
+        {
+          "name": "5060影院",
+          "type": 1,
+          "url": "https://vip.mengx.vip/home/api?type=ys&uid=18613&key=bknprsxCILRTUVYZ79&url=",
+          "t": 710
+        },
+        {
+          "name": "筋斗云1",
+          "type": 1,
+          "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url=",
+          "t": 784
+        },
+        {
+          "name": "蓝光视频",
+          "type": 1,
+          "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=",
+          "t": 796
+        },
+        {
+          "name": "雪人影视",
+          "type": 1,
+          "url": "https://svip.renrenmi.cc:2222/api/?key=S77lACKG9VTwNq5Upv&url=",
+          "t": 797
+        },
+        {
+          "name": "看剧吧1",
+          "type": 1,
+          "url": "https://svip.renrenmi.cc:2222/api/?key=fI3YQ3vxF5uREfNpDU&url=",
+          "t": 800
+        },
+        {
+          "name": "九合视频",
+          "type": 1,
+          "url": "https://jhjx.ptygx.com/tyjx.php/?url=",
+          "t": 810
+        },
+        {
+          "name": "锤子追剧",
+          "type": 1,
+          "url": "http://vip.mengx.vip/home/api?type=ys&uid=2462596&key=bdhkCEGHLNOQ123789&url=",
+          "t": 826
+        },
+        {
+          "name": "段友影视",
+          "type": 1,
+          "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=",
+          "t": 835
+        },
+        {
+          "name": "蓝光视频1",
+          "type": 1,
+          "url": "https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url=",
+          "t": 871
+        },
+        {
+          "name": "可米影视",
+          "type": 1,
+          "url": "http://jx.kmysw.vip/json/?url=",
+          "t": 880
+        },
+        {
+          "name": "皮皮影视1",
+          "type": 1,
+          "url": "https://svip.renrenmi.cc:2222/api/?key=pMJFMPNvVrJBLK1IYi&url=",
+          "t": 881
+        },
+        {
+          "name": "神马影院",
+          "type": 1,
+          "url": "https://jhpc.manduhu.com/j.php?url=",
+          "t": 894
+        },
+        {
+          "name": "播放呀",
+          "type": 1,
+          "url": "https://svip.renrenmi.cc:2222/api/?key=x0VwYU871Aj4BA0NA7&url=",
+          "t": 920
+        },
+        {
+          "name": "黑马影视",
+          "type": 1,
+          "url": "https://www.t7g.cn/api/?key=11ZQE5nh363ZFdhrs9&url=",
+          "t": 967
+        },
+        {
+          "name": "看剧吧",
+          "type": 1,
+          "url": "https://vip.mengx.vip/home/api?type=ys&uid=1646534&key=dhijluzBDNTUZ03678&url=",
+          "t": 978
+        },
+        {
+          "name": "CJT影院",
+          "type": 1,
+          "url": "https://api.jiexi.one/api/?key=Sv5qJ05C6Oy62kCnEc&url=",
+          "t": 996
+        },
+        
         {"name":"1","url":"https://titan.mgtv.com.jumi.tv/player/?url="},
     	  {"name":"2","url":"https://dmku.dijiaxia.com/?url="},
    	    {"name":"3","url":"https://jx.ysgc.xyz/?url="},
