@@ -489,7 +489,26 @@
       "filterable": 0,
       "ext":"https://hzyhbb.coding.net/p/mcat/d/maotv/git/raw/main/xpath/1010dy.json"
      },
-     
+     {
+      "key": "唐人街",
+      "name": "唐人街(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://hzyhbb.coding.net/p/mcat/d/maotv/git/raw/main/xpath/Renjie.json"
+    },
+    {
+      "key": "Djx",
+      "name": "瓜皮TV(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://hzyhbb.coding.net/p/mcat/d/maotv/git/raw/main/xpath/Djx.json"
+    },
 
     {"key":"csp_appys_iptv_米来影视", "name":"米来影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_米来影视"},
     {"key":"csp_appys_v1_玺心影视", "name":"玺心影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_玺心影视"},
