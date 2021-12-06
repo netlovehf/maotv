@@ -510,6 +510,20 @@
       "ext": "https://hzyhbb.coding.net/p/mcat/d/maotv/git/raw/main/xpath/Djx.json"
     },
 
+    {"key":"csp_appys_iptv_云播影视", "name":"云播影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_云播影视"},
+    {"key":"csp_appys_gctv_氢视频", "name":"氢视频(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"gctv_氢视频"},
+    {"key":"csp_appys_v1_温妮影视", "name":"温妮影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_温妮影视"},
+    {"key":"csp_appys_v1_心爱影视", "name":"心爱影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_心爱影视"},    
+    {"key":"csp_appys_v1_天神影视", "name":"天神影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_天神影视"},
+    {"key":"csp_appys_v1_柠柚影视", "name":"柠柚影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_柠柚影视"},
+    {"key":"csp_appys_v1_蓝思TV", "name":"蓝思TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_蓝思TV"},    
+    {"key":"csp_appys_v1_汇聚库TV", "name":"汇聚库TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_汇聚库TV"},
+    {"key":"csp_appys_xiaogui_我爱电影", "name":"我爱电影(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_我爱电影"},
+    {"key":"csp_appys_xiaogui_麻花视频", "name":"麻花视频(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_麻花视频"},
+    {"key":"csp_appys_xiaogui_极乐阁", "name":"极乐阁(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_极乐阁"},
+    {"key":"csp_appys_xiaogui_饭团影院", "name":"饭团影院(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_饭团影院"},
+    {"key":"csp_appys_xiaogui_MK影视", "name":"MK影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_MK影视"},
+
     {"key":"csp_appys_iptv_米来影视", "name":"米来影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_米来影视"},
     {"key":"csp_appys_v1_玺心影视", "name":"玺心影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_玺心影视"},
     {"key":"csp_appys_v1_天空影视", "name":"天空影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_天空影视"},
